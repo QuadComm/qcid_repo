@@ -1,0 +1,27 @@
+# Server identity shit
+server_profile:
+    qcid_id: "QCID-ALPHA-FRU-0004"
+    qcid_regdate: "March 18 2023"
+
+# Name stuff
+profile_name:
+    
+    # Names
+    profile_name_first: "Jerome"
+    profile_name_middle: "Unknown"
+    profile_name_last: "Gabuco"
+    
+    # Nickname
+    profile_nickname: "Jerome"
+    
+profile_physical:
+    
+    # Weight in kg
+    profile_physical_weight: "45kg"
+    
+    # Height in ft
+    profile_physical_height: "4.9ft"
+    
+    # Picture accesskey
+    profile_physical_picture: "IMG_20230324_132051.jpg"
+    

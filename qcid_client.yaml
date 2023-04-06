@@ -1,0 +1,22 @@
+# Root object
+qcom_version:
+    
+    # Version stuff
+    qcid_latest  : "1.0"
+    
+    # Stuff about updates
+    qcid_update:
+    
+        # Is the update required?
+        required: false
+        
+        # The name of the update
+        # u_name: "" # Scrap this idea...
+        
+        # Version that is required to update
+        # Ex. minimum: 1.0, Means that version 1.0 below
+        # is required to update.
+        minimum: "0.5"
+        
+        # Accesskey for the update
+        a_key: "update_alpha1"

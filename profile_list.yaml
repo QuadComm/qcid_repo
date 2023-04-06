@@ -1,0 +1,34 @@
+# Array Metadata
+# Some array meta data
+array_meta:
+    
+    # Date when db was last updated
+    last_update: "10-18-23"
+
+# The list of profiles
+profile_array:
+    
+    - # Object indicator
+      # Date Added: 04-10-23
+        name: "John Michael Delos Reyes"
+        id: "QCID-ALPHA-FRU-0001"
+        regdate: "04-10-23"
+    
+    # - # Object indicator
+      # Date Added: 04-10-23
+      #  name: "Precious Miles Carpiano"
+      #  id: "QCID-ALPHA-FRU-0002"
+      #  regdate: "04-10-23"
+        
+    - # Object indicator
+      # Date Added: 04-10-23
+        name: "Christian Pañares"
+        id: "QCID-ALPHA-FRU-0003"
+        regdate: "04-10-23"
+        
+    - # Object indicator
+      # Date Added: 04-10-23
+        name: "Jerome Gabuco"
+        id: "QCID-ALPHA-FRU-0004"
+        regdate: "04-10-23"
+    
