@@ -32,8 +32,8 @@ profile_array:
         id: "QCID-ALPHA-FRU-0004"
         regdate: "04-10-23"
 
-    - # Obj indicator
+    #- # Obj indicator
       # Just bc
-        name: "Drexler Icong"
-        id: "QCID-ALPHA-FRU-0005"
-        regdate: "I dont fucking know"
+      #  name: "Drexler Icong"
+      #  id: "QCID-ALPHA-FRU-0005"
+      #  regdate: "I dont fucking know"
