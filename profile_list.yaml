@@ -31,4 +31,9 @@ profile_array:
         name: "Jerome Gabuco"
         id: "QCID-ALPHA-FRU-0004"
         regdate: "04-10-23"
-    
+
+    - # Obj indicator
+      # Just bc
+        name: "Drexler Icong"
+        id: "QCID-ALPHA-FRU-0005"
+        regdate: "I dont fucking know"
